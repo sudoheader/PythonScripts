@@ -1,0 +1,1 @@
+@py c:\users\sudoh\pythonscripts\mapit.py %*
